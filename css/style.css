@@ -46,7 +46,8 @@
   }
   
   #parallax-1 {
-    background: url(https://source.unsplash.com/featured/?nature);
+    /* background: url(https://source.unsplash.com/featured/?nature); */
+    background: url('../img/forest.jpeg');
     background-attachment: fixed;
     background-position: center;
     /* background-repeat: no-repeat; */
@@ -59,7 +60,8 @@
   }
   
   #parallax-2 {
-    background: url(https://source.unsplash.com/featured/?flower);
+    /* background: url(https://source.unsplash.com/featured/?flower); */
+    background: url('../img/forest_morning.jpeg');
     background-attachment: fixed;
     background-position: center;
     /* background-repeat: no-repeat; */
